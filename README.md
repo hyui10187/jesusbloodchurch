@@ -17,7 +17,13 @@
 - 서버: AWS EC2 (t4g.micro)
 - 웹서버: NGINX (리버스 프록시)
 - SSL: Let's Encrypt
-- CDN / 보안: Cloudflare Full (strict)
+- DNS / CDN / Security: Cloudflare Full (strict)
+- Storage: AWS S3
+- External API: Naver Maps API
+- Authentication: Spring Security
+- Database Hosting: Neon DB
+- Email Hosting: Zoho Mail
+- Domain: Gabia
 
 ## 배포
 - 실제 운영 사이트: [https://www.jesusbloodchurch.com](https://www.jesusbloodchurch.com)

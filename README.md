@@ -26,7 +26,7 @@
 - Domain: Gabia
 
 ## 배포
-- 실제 운영 사이트: [https://www.jesusbloodchurch.com](https://www.jesusbloodchurch.com)
+- 실제 운영 사이트: [https://www.jesusbloodchurch.org](https://www.jesusbloodchurch.org)
 
 ## 주요 기능
 

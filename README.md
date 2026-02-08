@@ -18,6 +18,7 @@
 - 웹서버: NGINX (리버스 프록시)
 - SSL: Let's Encrypt
 - DNS / CDN / Security: Cloudflare Full (strict)
+- Captcha: Cloudflare Turnstile
 - Storage: AWS S3
 - External API: Naver Maps API
 - Authentication: Spring Security

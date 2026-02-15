@@ -14,13 +14,13 @@
 - Testing: JUnit 5, Spring Boot Test
 
 ## 운영 환경
-- 서버: AWS EC2 (t4g.micro)
-- 웹서버: NGINX (리버스 프록시)
+- Server: AWS EC2 (t4g.micro)
+- Web Server: NGINX (Reverse Proxy)
 - SSL: Let's Encrypt
 - DNS / CDN / Security: Cloudflare Full (strict)
 - Captcha: Cloudflare Turnstile
 - Storage: AWS S3
-- External API: Naver Maps API
+- External API: Naver Maps API, OpenWeatherMap API
 - Authentication: Spring Security
 - Database Hosting: Neon DB
 - Email Hosting: Zoho Mail
@@ -32,16 +32,20 @@
 ## 주요 기능
 
 ### ✅ 현재 구현된 기능
+- ✅ 오늘의 성경 구절
+- ✅ 오늘의 날씨
 - ✅ 교회 비전 화면
 - ✅ 담임목사 인사말 화면
 - ✅ 교역자 소개 화면
 - ✅ 예배 안내
 - ✅ 오시는길 화면
 - ✅ 헌금 안내 화면
-- ✅ 설교 화면
+- ✅ 설교 게시판
+- ✅ 강연 게시판
 - ✅ 주보 게시판
 - ✅ 교우소식 게시판
 - ✅ 기도요청 화면
+- ✅ 공지사항 게시판
 - ✅ 입교 안내 화면
 - ✅ 금요 성경공부 화면
 - ✅ 신학스터디 안내 화면

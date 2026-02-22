@@ -21,7 +21,7 @@
 - Captcha: Cloudflare Turnstile
 - Storage: AWS S3
 - External API: Naver Maps API, OpenWeatherMap API
-- Authentication: Spring Security
+- Authentication: Spring Security, OAuth 2.0 <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/common" target="_blank"><img src="https://cdn.simpleicons.org/kakaotalk/FFCD00" width="15" height="15"></a>
 - Database Hosting: Neon DB
 - Email Hosting: Zoho Mail
 - Domain: Gabia

@@ -7,7 +7,7 @@
 교회의 비전, 예배 시간, 위치 안내 등 교회 정보를 편리하게 제공하기 위해 개발되었습니다.
 
 ## 기술 스택
-- Backend: Spring Boot <a href="https://spring.io/"><img src="https://cdn.simpleicons.org/spring/6DB33F" width="15" height="15"></a>
+- Backend: Spring Boot <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/spring/6DB33F" width="15" height="15"></a>
 - Frontend: Thymeleaf <a href="https://www.thymeleaf.org/"><img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="15" height="15"></a>, Tailwind CSS <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="15" height="15"></a>
 - Database: PostgreSQL <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="15" height="15"></a>, JPA <a href="https://hibernate.org/"><img src="https://cdn.simpleicons.org/hibernate/59666C" width="15" height="15"></a>
 - Build Tool: Gradle <a href="https://gradle.org/"><img src="https://cdn.simpleicons.org/gradle/02303A" width="15" height="15"></a>
@@ -20,7 +20,7 @@
 - DNS / CDN: Cloudflare <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
 - Captcha: Cloudflare Turnstile <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
 - Storage: AWS S3
-- External API: Naver Maps API <a href="https://www.ncloud.com/v2/product/applicationService/maps"><img src="https://cdn.simpleicons.org/googlemaps/03C75A" width="15" height="15"></a>, OpenWeatherMap API
+- External API: Naver Maps API <a href="https://www.ncloud.com/v2/product/applicationService/maps"><img src="https://cdn.simpleicons.org/googlemaps/03C75A" width="15" height="15"></a>, OpenWeatherMap API <a href="https://openweathermap.org/"><img src="https://cdn.simpleicons.org/accuweather/FF6600" width="15" height="15"></a>
 - Authentication: Spring Security <a href="https://spring.io/projects/spring-security"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="15" height="15"></a>, OAuth 2.0 <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/common"><img src="https://cdn.simpleicons.org/kakaotalk/FFCD00" width="15" height="15"></a>
 - Database Hosting: Neon DB
 - Email Hosting: Zoho Mail <a href="https://www.zoho.com/mail/"><img src="https://cdn.simpleicons.org/zoho/ED1C24" width="15" height="15"></a>

@@ -26,6 +26,8 @@
 - Database Hosting: Neon DB <a href="https://neon.tech/"><img src="https://cdn.simpleicons.org/lightning/00E599" width="15" height="15"></a>
 - Email Hosting: Zoho Mail <a href="https://www.zoho.com/mail/"><img src="https://cdn.simpleicons.org/zoho/ED1C24" width="20" height="20"></a>
 - Domain: Gabia
+- API Documentation: Swagger UI <a href="https://swagger.io/tools/swagger-ui/"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="15" height="15"></a> (OpenAPI 3.0)
+- Logging: Logback
 
 ## 배포
 - 실제 운영 사이트: [https://www.jesusbloodchurch.org](https://www.jesusbloodchurch.org)
@@ -50,11 +52,13 @@
 - ✅ 입교 안내 화면
 - ✅ 금요 성경공부 화면
 - ✅ 신학스터디 안내 화면
+- ✅ Spring Boot JAR를 systemd 서비스로 관리
 - ✅ 소셜로그인(카카오)
+- ✅ 서버 로그 관리 자동화 (Shell Script)
+- ✅ Swagger 기반 API 문서화
 
 ### ⏳ 개발 예정 기능
 - ⏳ 배포 자동화
-- ⏳ Swagger 기반 API 문서화
 - ⏳ 챗봇 기능
 - ⏳ 관리자 화면
 - ⏳ 온라인 신학교

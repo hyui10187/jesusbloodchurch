@@ -20,7 +20,7 @@
 - DNS / CDN: Cloudflare <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
 - Captcha: Cloudflare Turnstile <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
 - Storage: AWS S3
-- External API: Naver Maps API <a href="https://developers.naver.com/products/map/"><img src="https://cdn.simpleicons.org/googlemaps/03C75A" width="15" height="15"></a>, OpenWeatherMap API
+- External API: Naver Maps API <a href="https://www.ncloud.com/v2/product/applicationService/maps"><img src="https://cdn.simpleicons.org/googlemaps/03C75A" width="15" height="15"></a>, OpenWeatherMap API
 - Authentication: Spring Security <a href="https://spring.io/projects/spring-security"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="15" height="15"></a>, OAuth 2.0 <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/common"><img src="https://cdn.simpleicons.org/kakaotalk/FFCD00" width="15" height="15"></a>
 - Database Hosting: Neon DB
 - Email Hosting: Zoho Mail <a href="https://www.zoho.com/mail/"><img src="https://cdn.simpleicons.org/zoho/ED1C24" width="15" height="15"></a>

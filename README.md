@@ -7,23 +7,23 @@
 교회의 비전, 예배 시간, 위치 안내 등 교회 정보를 편리하게 제공하기 위해 개발되었습니다.
 
 ## 기술 스택
-- Backend: Spring Boot
-- Frontend: Thymeleaf, Tailwind CSS
-- Database: PostgreSQL, JPA
-- Build Tool: Gradle
-- Testing: JUnit 5, Spring Boot Test
+- Backend: Spring Boot <a href="https://spring.io/"><img src="https://cdn.simpleicons.org/spring/6DB33F" width="15" height="15"></a>
+- Frontend: Thymeleaf <a href="https://www.thymeleaf.org/"><img src="https://cdn.simpleicons.org/thymeleaf/005F0F" width="15" height="15"></a>, Tailwind CSS <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="15" height="15"></a>
+- Database: PostgreSQL <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="15" height="15"></a>, JPA <a href="https://hibernate.org/"><img src="https://cdn.simpleicons.org/hibernate/59666C" width="15" height="15"></a>
+- Build Tool: Gradle <a href="https://gradle.org/"><img src="https://cdn.simpleicons.org/gradle/02303A" width="15" height="15"></a>
+- Testing: JUnit 5 <a href="https://junit.org/junit5/"><img src="https://cdn.simpleicons.org/checkmarx/25A162" width="15" height="15"></a>, Spring Boot Test
 
 ## 운영 환경
 - Server: AWS EC2 (t4g.micro)
-- Web Server: NGINX (Reverse Proxy)
-- SSL: Let's Encrypt
-- DNS / CDN / Security: Cloudflare Full (strict)
-- Captcha: Cloudflare Turnstile
+- Web Server: NGINX <a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" width="15" height="15"></a> (Reverse Proxy)
+- SSL: Cloudflare <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>, Let's Encrypt <a href="https://letsencrypt.org/"><img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="15" height="15"></a>
+- DNS / CDN: Cloudflare <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
+- Captcha: Cloudflare Turnstile <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="15" height="15"></a>
 - Storage: AWS S3
-- External API: Naver Maps API, OpenWeatherMap API
-- Authentication: Spring Security, OAuth 2.0 <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/common" target="_blank"><img src="https://cdn.simpleicons.org/kakaotalk/FFCD00" width="15" height="15"></a>
+- External API: Naver Maps API <a href="https://developers.naver.com/products/map/"><img src="https://cdn.simpleicons.org/googlemaps/03C75A" width="15" height="15"></a>, OpenWeatherMap API
+- Authentication: Spring Security <a href="https://spring.io/projects/spring-security"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="15" height="15"></a>, OAuth 2.0 <a href="https://developers.kakao.com/docs/latest/ko/kakaologin/common"><img src="https://cdn.simpleicons.org/kakaotalk/FFCD00" width="15" height="15"></a>
 - Database Hosting: Neon DB
-- Email Hosting: Zoho Mail
+- Email Hosting: Zoho Mail <a href="https://www.zoho.com/mail/"><img src="https://cdn.simpleicons.org/zoho/ED1C24" width="15" height="15"></a>
 - Domain: Gabia
 
 ## 배포
@@ -49,6 +49,7 @@
 - ✅ 입교 안내 화면
 - ✅ 금요 성경공부 화면
 - ✅ 신학스터디 안내 화면
+- ✅ 소셜로그인(카카오)
 
 ### ⏳ 개발 예정 기능
 - ⏳ 배포 자동화

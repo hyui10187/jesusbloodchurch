@@ -28,20 +28,21 @@
 - Domain: Gabia
 - API Documentation: Swagger UI <a href="https://swagger.io/tools/swagger-ui/"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="15" height="15"></a> (OpenAPI 3.0)
 - Logging: Logback
+- Monitoring: Grafana <a href="https://grafana.com/"><img src="https://cdn.simpleicons.org/grafana/F46800" width="15" height="15"></a>
 
 ## 배포
 - 실제 운영 사이트: [https://www.jesusbloodchurch.org](https://www.jesusbloodchurch.org)
 
 ## 주요 기능
 
-### ✅ 현재 구현된 기능
+### ⛪ 사용자 기능
 - ✅ 오늘의 성경 구절
-- ✅ 오늘의 날씨
+- ✅ 오늘의 날씨 (OpenWeatherMap API)
 - ✅ 교회 비전 화면
 - ✅ 담임목사 인사말 화면
 - ✅ 교역자 소개 화면
 - ✅ 예배 안내
-- ✅ 오시는길 화면
+- ✅ 오시는길 화면 (Naver Maps API)
 - ✅ 헌금 안내 화면
 - ✅ 설교 게시판
 - ✅ 강연 게시판
@@ -52,10 +53,17 @@
 - ✅ 입교 안내 화면
 - ✅ 금요 성경공부 화면
 - ✅ 신학스터디 안내 화면
+- ✅ 로그인 화면 (Cloudflare Turnstile)
+- ✅ 소셜로그인 기능 (Kakao OAuth 2.0)
+
+### ⚙️ 운영 및 인프라
 - ✅ Spring Boot JAR를 systemd 서비스로 관리
-- ✅ 소셜로그인(카카오)
-- ✅ 서버 로그 관리 자동화 (Shell Script)
-- ✅ Swagger 기반 API 문서화
+- ✅ NGINX Reverse Proxy 구성
+- ✅ Cloudflare 기반 DNS / CDN / SSL 구성
+- ✅ NGINX에 Let's Encrypt 기반 SSL 인증서 설치 (HTTPS 적용)
+- ✅ 서버 로그 자동 로테이션 (Shell Script)
+- ✅ Swagger (OpenAPI 3.0) 기반 API 문서화
+- ✅ Grafana Cloud 기반 모니터링 대시보드 구축
 
 ### ⏳ 개발 예정 기능
 - ⏳ 배포 자동화

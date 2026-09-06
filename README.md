@@ -55,6 +55,7 @@
 - ✅ 신학스터디 안내 화면
 - ✅ 로그인 화면 (Cloudflare Turnstile)
 - ✅ 소셜로그인 기능 (Kakao OAuth 2.0)
+- ✅ 관리자용 화면
 
 ### ⚙️ 운영 및 인프라
 - ✅ Spring Boot JAR를 systemd 서비스로 관리
@@ -64,9 +65,9 @@
 - ✅ 서버 로그 자동 로테이션 (Shell Script)
 - ✅ Swagger (OpenAPI 3.0) 기반 API 문서화
 - ✅ Grafana Cloud 기반 모니터링 대시보드 구축
+- ✅ GitHub Actions 기반 CI/CD 파이프라인 구축
+- ✅ Terraform 기반 IaC 구축 및 AWS 인프라 관리
 
 ### ⏳ 개발 예정 기능
-- ⏳ 배포 자동화
 - ⏳ 챗봇 기능
-- ⏳ 관리자 화면
 - ⏳ 온라인 신학교
